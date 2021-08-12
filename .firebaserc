@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "shopapp-3a70e": {
+      "hosting": {
+        "shop": [
+          "shopapp-3a70e"
+        ]
+      }
+    }
+  }
+}
